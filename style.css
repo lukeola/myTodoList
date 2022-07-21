@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+
+
+#todo-items {
+background-color: aquamarine;
+background-size: contain;
+width: fit-content;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 5px 5px 5px royalblue;
+}
